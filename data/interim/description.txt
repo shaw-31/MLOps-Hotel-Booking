@@ -1,1 +1,2 @@
-Pickle and parquet formats of dataset for faster processing.
+Intermidiate data that has been transformed.
+- Pickle and parquet formats of dataset for faster processing.
