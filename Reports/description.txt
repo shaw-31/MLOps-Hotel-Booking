@@ -1,0 +1,2 @@
+Generated HTML, PDFs, LateX files.
+Graphics and figures in reporting.
